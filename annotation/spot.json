@@ -1,0 +1,95 @@
+[
+    {
+        "symbol": "SOL",
+        "mint": "null",
+        "timestamp": "2024-09-22T10:15:30Z",
+        "price": 135.23,
+        "amount": 35201,
+        "slope": 0.0025,
+        "indicators": {
+            "moving_average_50": 174.85,
+            "moving_average_200": 169.74,
+            "relative_strength_index": 58.7,
+            "macd": {
+                "signal": 0.78,
+                "histogram": 0.02
+            },
+            "bollinger_bands": {
+                "upper_band": 178.50,
+                "lower_band": 171.20,
+                "middle_band": 174.85
+            },
+            "ema_12": 175.02,
+            "ema_26": 174.60,
+            "volume_weighted_average_price": 174.90,
+            "stochastic_oscillator": {
+                "k_value": 67.8,
+                "d_value": 65.5
+            },
+            "chaikin_money_flow": 0.15,
+            "commodity_channel_index": 104.5
+        }
+    },
+    {
+        "symbol": "CAB",
+        "mint": "K1tChn2NETQd9cCHe1UmUyWP3rDA92gP1dH4nNyEJrx",
+        "timestamp": "2024-09-22T10:16:45Z",
+        "price": 2834.55,
+        "amount": 189500,
+        "slope": -0.0012,
+        "indicators": {
+            "moving_average_50": 2840.30,
+            "moving_average_200": 2775.50,
+            "relative_strength_index": 65.3,
+            "macd": {
+                "signal": 1.02,
+                "histogram": -0.05
+            },
+            "bollinger_bands": {
+                "upper_band": 2865.00,
+                "lower_band": 2805.60,
+                "middle_band": 2840.30
+            },
+            "ema_12": 2832.12,
+            "ema_26": 2825.50,
+            "volume_weighted_average_price": 2830.00,
+            "stochastic_oscillator": {
+                "k_value": 78.2,
+                "d_value": 75.6
+            },
+            "chaikin_money_flow": 0.10,
+            "commodity_channel_index": 120.4
+        }
+    },
+    {
+        "symbol": "DOGE",
+        "mint": "BSziSaEzdUq3URmcXiJSGMhSgmLt9zDdJYqoW8qRx7wu",
+        "timestamp": "2024-09-22T10:17:15Z",
+        "price": 813.67,
+        "amount": 526400,
+        "slope": 0.0051,
+        "indicators": {
+            "moving_average_50": 810.20,
+            "moving_average_200": 798.75,
+            "relative_strength_index": 72.4,
+            "macd": {
+                "signal": 2.35,
+                "histogram": 0.10
+            },
+            "bollinger_bands": {
+                "upper_band": 825.00,
+                "lower_band": 795.10,
+                "middle_band": 810.20
+            },
+            "ema_12": 813.12,
+            "ema_26": 805.50,
+            "volume_weighted_average_price": 810.85,
+            "stochastic_oscillator": {
+                "k_value": 82.1,
+                "d_value": 79.9
+            },
+            "chaikin_money_flow": 0.25,
+            "commodity_channel_index": 135.8
+        }
+    }
+]
